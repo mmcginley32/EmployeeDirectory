@@ -1,0 +1,8 @@
+th {
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+th:hover {
+    cursor: pointer;
+}
